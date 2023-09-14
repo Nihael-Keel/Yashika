@@ -33,8 +33,4 @@ def get_bot_response():
 
 
 if __name__ == "__main__":
-<<<<<<< HEAD
     serve(app,host='0.0.0.0',port=50100,threads=1)
-=======
-    app.run()
->>>>>>> 5034f995a86a334dcde6d48616087098f6e90a91
