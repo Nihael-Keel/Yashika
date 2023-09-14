@@ -1,3 +1,9 @@
 Flask==2.3.2
 openai==0.28.0
 openai-cli==0.0.3
+waitress==2.1.2
+scikit-learn==1.1.2
+scikit-plot==0.3.7
+scipy==1.9.3
+opencv-python==4.7.0.72
+ipython==8.14.0
