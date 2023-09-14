@@ -1,5 +1,6 @@
 import os
 import openai
+from waitress import serve
 from dotenv import load_dotenv
 load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -32,4 +33,4 @@ def get_bot_response():
 
 
 if __name__ == "__main__":
-    app.run()
+    serve(app,host='0.0.0.0',port=50100,threads=1)
