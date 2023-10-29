@@ -12,4 +12,7 @@ one day.
 
 PS: To whomsoever it may concern,
 
-You are the best thing that had happened to me and I would never wish for a moment other than what we have now. I love you and I don’t know what I’d be without you. Thank you for standing by with me all this time and I hope you will be for many more years to come.
+You were the best thing that had happened to me and I just wish we could get back what we had.
+
+Love,
+Nikhil.
